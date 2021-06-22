@@ -1,0 +1,225 @@
+body {
+    padding-top: 54px;
+    background-image: url("../img/background.png");
+    color: #565656;
+}
+
+.navbar {
+    background-color: #7DB9E8!important;
+    color: #FFFFFF;
+}
+
+.single-page {
+    padding-top: 50px;
+}
+
+.dash-blurb {
+    margin: 25px auto;
+}
+
+.rounded,
+.rounded-circle {
+    margin-top: -15px;
+    margin-bottom: 15px;
+    height: 400px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px #565656;
+}
+
+.accent {
+    color: #7DB9E8;
+}
+
+.accent2 {
+    color: #FC5A1A;
+    font-weight: 700;
+}
+
+.account-snapshot {
+    padding: 20px 15px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+#highlight-row {
+    background-color: #f5f5f5;
+    color: #565656;
+    box-shadow: 0px 0px 5px 1px #7DB9E8;
+}
+
+.divide {
+    padding-bottom: 20px;
+    margin: 15px auto;
+}
+
+form {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.survey-question {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.survey-options {
+    margin-left: 60px;
+}
+
+.custom-control-label {
+    margin-left: 15px;
+}
+
+.custom-control-label::before {
+    max-height: 0px;
+}
+
+#submit-survey {
+    float: right;
+    margin-right: 75px;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.modal-triggers {
+    background-size: cover;
+    min-height: 250px;
+}
+
+.card-title {
+    background-color: #565656;
+    padding: 8px 5px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 100%;
+    box-shadow: 0px 0px 10px 1px #f5f5f5;
+}
+
+.btn-more {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subscribe {
+    margin-top: -15px;
+    margin-bottom: 15px;
+    padding-top: 70px;
+    text-align: center;
+    height: 400px;
+    background-image: url("../img/boxicon.svg");
+    background-color: #FFFFFF;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    box-shadow: 0px 0px 5px 1px #565656;
+}
+
+.modal-img {
+    max-width: 335px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.py-5 {
+    background-color: #f5f5f5;
+    border-top: 1px solid #7DB9E8;
+    margin-top: 100px;
+}
+
+a .social-icon {
+    height: 40px;
+    margin: 0px auto;
+    display: block;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.orange-line {
+    border-top: 1.5px solid #fc5a1a;
+    opacity: .75;
+}
+
+.check {
+    margin: 15px 5px;
+}
+
+
+/* SIGNOUT & ERROR PAGE STYLE */
+
+.redirect {
+    margin-top: 60px;
+    width: 100%;
+}
+
+.hero-text {
+    margin-top: 180px;
+}
+
+.timer {
+    margin-top: 15px;
+    font-style: italic;
+    font-size: 24px;
+}
+
+@media (max-width: 767px) {
+    form {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .survey-options {
+        margin-left: 0px;
+    }
+    .custom-control-label {
+        margin-left: 0px;
+    }
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.dropdown {
+    overflow: hidden;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}

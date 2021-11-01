@@ -335,7 +335,7 @@ p {
                                         <a class="dropdown-item " href="# ">Beauty Pack</a>
                                         <a class="dropdown-item " href="# ">Groom Pack</a>
                                         <a class="dropdown-item " href="# ">Household Pack</a>
-                                        <a class="dropdown-item " href="# ">Fruits and Vegetables Packs</a>
+                                        <a class="dropdown-item " href="packs/">Fruits and Vegetables Packs</a>
                                     </div>
                                 </li>
                                 <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
@@ -345,8 +345,8 @@ p {
                                     <a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
                                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:black">SIGN IN</a>
                                     <div class="dropdown-menu ">
-                                        <a class="dropdown-item " href="signin.php">SIGN IN</a>
-                                        <a class="dropdown-item " href="register.php ">REGISTER</a>
+                                        <a class="dropdown-item " href="index.php">SIGN IN</a>
+                                        <a class="dropdown-item " href="user-registration.php ">REGISTER</a>
                                     </div>
                                 </li>
                             </ul>

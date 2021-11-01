@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'>
+    <meta charset="utf-8">
+      <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'>
     <link href="assets/css/style-template.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -11,9 +11,9 @@
     <link href="assets/vendors/owl-carousel/assets/owl.carousel.min.css" rel="stylesheet">
 
 
-	<title>header</title>
-	<style type="text/css">
-		@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari,latin-ext');
+    <title>header</title>
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari,latin-ext');
 
 .start-header {
     opacity: 1;
@@ -299,7 +299,7 @@ p {
 
 
 
-	</style>
+    </style>
 </head>
 <body>
 <div class="navigation-wrap bg-light start-header start-style">
@@ -318,29 +318,37 @@ p {
 
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav ml-auto py-4 py-md-0">
-                                
-                              
+                                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
+                                    <a class="nav-link " href="../index.php">HOME</a>
+                                </li>
+                                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
+                                    <a class="nav-link " href="../index.php ">HOW IT WORKS</a>
+                                </li>
+                                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
+                                    <a class="nav-link " href="../index.php ">BRANDS</a>
+                                </li>
 
                                 <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 " >
                                     <a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
                                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:black">PACKS</a>
                                     <div class="dropdown-menu " aria-labelledby="dropdownMenuLink">
-                                        <a class="dropdown-item " href="beautypacks.php">Beauty Pack</a>
-                                        <a class="dropdown-item " href="groompack.php">Groom Pack</a>
-                                        <a class="dropdown-item " href="househldpacks.php ">Household Pack</a>
-                                        <a class="dropdown-item " href="foodpack.php">Fruits and Vegetables Packs</a>
+                                        <a class="dropdown-item " href="# ">Beauty Pack</a>
+                                        <a class="dropdown-item " href="# ">Groom Pack</a>
+                                        <a class="dropdown-item " href="# ">Household Pack</a>
+                                        <a class="dropdown-item " href="packs/">Fruits and Vegetables Packs</a>
                                     </div>
                                 </li>
-                               <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
-                                    <a class="nav-link " href="subscription.php ">My Subscription</a>
+                                <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
+                                    <a class="nav-link " href="#testimonial ">TESTIMONIALS</a>
+                                </li> -->
+                                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
+                                    <a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
+                                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:black">SIGN IN</a>
+                                    <div class="dropdown-menu ">
+                                        <a class="dropdown-item " href="index.php">SIGN IN</a>
+                                        <a class="dropdown-item " href="user-registration.php ">REGISTER</a>
+                                    </div>
                                 </li>
-                                  <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
-                                    <a class="nav-link " href="../aboutus.php ">About Us</a>
-                                </li>
-                                  <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
-                                    <a class="nav-link " href="../register/signin.php ">Log Out</a>
-                                </li>
-                               
                             </ul>
                         </div>
 

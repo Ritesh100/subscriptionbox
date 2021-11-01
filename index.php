@@ -53,10 +53,10 @@
                                     <a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
                                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PACKS</a>
                                     <div class="dropdown-menu " aria-labelledby="dropdownMenuLink">
-                                        <a class="dropdown-item " href="packs/beautypacks.php">Beauty Pack</a>
-                                        <a class="dropdown-item " href="packs/groompack.php ">Groom Pack</a>
-                                        <a class="dropdown-item " href="packs/househldpacks.php">Household Pack</a>
-                                        <a class="dropdown-item " href="packs/food.php">Fruits and Vegetables Packs</a>
+                                        <a class="dropdown-item " href="pack/beautypacks.php">Beauty Pack</a>
+                                        <a class="dropdown-item " href="pack/groompack.php ">Groom Pack</a>
+                                        <a class="dropdown-item " href="pack/househldpacks.php">Household Pack</a>
+                                        <a class="dropdown-item " href="pack/food.php">Fruits and Vegetables Packs</a>
                                     </div>
                                 </li>
                                 <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 ">
@@ -66,8 +66,8 @@
                                     <a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
                                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SIGN IN</a>
                                     <div class="dropdown-menu ">
-                                        <a class="dropdown-item " href="register/register.php">SIGN IN</a>
-                                        <a class="dropdown-item " href="register/register.php ">REGISTER</a>
+                                        <a class="dropdown-item " href="register/index.php">SIGN IN</a>
+                                        <a class="dropdown-item " href="register/user-registration.php ">REGISTER</a>
                                     </div>
                                 </li>
                             </ul>
@@ -189,28 +189,28 @@
     <h4>Beauty<span>Pack</span></h4>
     <p>You can't have everything... where would you put it?</p>
   </figcaption> 
-  <a href="packs/beautypacks.php"></a>
+  <a href="pack/beautypacks.php"></a>
 </figure>
 <figure class="snip0078 blue"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample7.jpg" alt="sample50" />
   <figcaption>
     <h4>Groom <span>Pack</span></h4>
     <p>You can't have everything... where would you put it?</p>
   </figcaption>
-  <a href="packs/groompack.php"></a>
+  <a href="pack/groompack.php"></a>
 </figure>
 <figure class="snip0078 red"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample7.jpg" alt="sample50" />
   <figcaption>
     <h4>Household <span>Pack</span></h4>
     <p>You can't have everything... where would you put it?</p>
   </figcaption>
-  <a href="packs/househldpacks.php"></a>
+  <a href="pack/househldpacks.php"></a>
 </figure>
 <figure class="snip0078 red"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample7.jpg" alt="sample50" />
   <figcaption>
     <h4>Fruits and vegetables <span>Packs</span></h4>
     <p>You can't have everything... where would you put it?</p>
   </figcaption>
-  <a href="#"></a>
+  <a href="pack/food.php"></a>
 </figure>
 <figure class="snip0078 yellow"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample6.jpg" alt="sample46" />
   <figcaption>

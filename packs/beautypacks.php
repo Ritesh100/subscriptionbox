@@ -72,7 +72,7 @@ div.desc {
 	</head>
 
 	<body>
-	    <?php include('header.php'); ?> 
+	   
 	   <div class="slider" style="margin-top: 80px;">
 	 <?php
 	 include('slider.php');
